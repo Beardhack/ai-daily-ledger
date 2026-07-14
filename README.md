@@ -12,8 +12,8 @@ Past editions are listed at:
 
 ## Publishing a new edition
 
-1. Save the reviewed HTML as `site/editions/YYYY-MM-DD/index.html`.
-2. Save its Markdown source as `sources/YYYY-MM-DD.md`.
+1. Save the reviewed HTML as `site/editions/YYYY-MM-DD/index.html`. For multiple editions on one day, use a suffix such as `YYYY-MM-DD-pm`.
+2. Save its Markdown source under the matching name in `sources/`.
 3. Copy the reviewed HTML to `site/index.html` so the root URL always shows the latest edition.
 4. Add the edition to `site/editions/index.html`.
 5. Commit and push to `main`.
