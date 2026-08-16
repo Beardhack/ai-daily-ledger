@@ -2,6 +2,8 @@
 
 A recurring, source-linked briefing on recent AI discussion across X/Twitter.
 
+Editorial conventions are documented in [STYLE_GUIDE.md](STYLE_GUIDE.md).
+
 The latest edition is published at:
 
 <https://beardhack.github.io/ai-daily-ledger/>
